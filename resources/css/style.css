@@ -11,6 +11,10 @@ html{
     background-color: #ffffff;
     text-rendering: optimizeLegibility;
 }
+body
+{
+    overflow-x: hidden;
+}
 /*----------------------------REUSEABLE-------------------------------------------*/
 
 .small-icon
